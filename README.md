@@ -1,5 +1,7 @@
 # Wazuh Agent Enrollment using Password Authentication Method
 
+![wazuh_logo](src/wazuh_logo.png)
+
 Wazuh agent enrollment is the procedure of registering a Wazuh agent with a Wazuh manager, enabling secure communication and integration into the Wazuh security ecosystem.
 
 Through this enrollment process:
